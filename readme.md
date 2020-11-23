@@ -1,4 +1,4 @@
-# Simple tinder like card swapping app, build with MERN stack.
+# Simple tinder like card swapping app, made with MERN stack.
 
 # Live: https://tinder-cddfe.web.app
 
